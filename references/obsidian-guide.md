@@ -4,7 +4,7 @@ Use this guide when the user requests Obsidian output (e.g., "move to obsidian",
 
 ## Vault Location
 
-Base path: `/mnt/c/Obsidian/Life_sync`
+Base path: `/home/nova/Documents/Life_Sync`
 
 All files should be saved relative to this location.
 
@@ -21,11 +21,11 @@ All files should be saved relative to this location.
 ## File Path Format
 
 ```
-/mnt/c/Obsidian/Life_sync/{Category}/Articles/{filename}.md
+/home/nova/Documents/Life_Sync/{Category}/Articles/{filename}.md
 ```
 
 - Lowercase filenames with hyphens
-- Example: `/mnt/c/Obsidian/Life_sync/Tech/Articles/react-hooks-tutorial.md`
+- Example: `/home/nova/Documents/Life_Sync/Tech/Articles/react-hooks-tutorial.md`
 
 ## Required Frontmatter
 
